@@ -1,9 +1,13 @@
 .pink-header {
-    color: pink;
+    color: rgb(238, 64, 151);
+}
+
+h2 {
+    color: rgb(236, 134, 185);
 }
 
 p {
-    color: darkgray;
+    color: rgb(70, 67, 67);
 }
 
 #redHeader {
