@@ -21,4 +21,9 @@ p {
 
 body {
     background-image: linear-gradient(white, teal);
+    border-style: hidden;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
