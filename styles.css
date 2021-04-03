@@ -11,5 +11,9 @@ p {
 }
 
 #redHeader {
-    color: red
+    color: red teal
+}
+
+body {
+    background-image: linear-gradient(white, teal);
 }
