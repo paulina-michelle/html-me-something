@@ -15,6 +15,12 @@ p {
     font-weight: bold;
 }
 
+ol {
+    color: rgb(63, 63, 66);
+    font-size: large;
+    font-weight: bold;
+}
+
 #blueHeader {
     color: rgb(2, 2, 65);
     font-style: italic;
