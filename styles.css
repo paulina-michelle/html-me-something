@@ -1,21 +1,22 @@
 .pink-header {
     color: rgb(238, 64, 151);
+    text-decoration: underline;
     font-size: x-large;
 }
 
 h2 {
-    color: rgb(236, 134, 185);
+    color: rgb(238, 64, 151);
     font-size: large;
 }
 
 p {
-    color: rgb(70, 67, 67);
+    color: rgb(43, 40, 40);
     font-size: large;
     font-weight: bold;
 }
 
 #redHeader {
-    color: red
+    color: red;
     font-style: italic;
 }
 
