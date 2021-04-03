@@ -1,3 +1,11 @@
-h {
+.pink-header {
     color: pink;
+}
+
+p {
+    color: darkgray;
+}
+
+#redHeader {
+    color: red
 }
